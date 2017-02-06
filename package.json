@@ -35,11 +35,5 @@
       "default": false,
       "description": "Preserve the last search when reopening the command palette."
     }
-  },
-  "standard": {
-    "globals": [
-      "atom",
-      "CustomEvent"
-    ]
   }
 }
